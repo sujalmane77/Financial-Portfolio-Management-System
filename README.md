@@ -1,6 +1,5 @@
 # Financial Portfolio Management System
-### A MySQL Portfolio Project (BTSA / Fresher-Level SQL Skills)
-
+### A MySQL Portfolio Project 
 A relational database that models a simplified stock brokerage: users, companies, tradable stocks, portfolios, holdings, buy/sell transactions, and watchlists — built to demonstrate clean schema design and practical SQL proficiency, not enterprise complexity.
 
 ---
